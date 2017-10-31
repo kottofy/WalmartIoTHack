@@ -1,0 +1,3 @@
+/home/parallels/Desktop/iotsamplemqtt/cmake/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/iotsamplemqtt/cmake/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/iotsamplemqtt/cmake/CMakeFiles/iothub_client_sample_mqtt.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/iothub_client_sample_mqtt.dir/iothub_client_sample_mqtt.c.o  -o iothub_client_sample_mqtt -rdynamic -liothub_client -liothub_client_mqtt_transport -laziotsharedutil -lumqtt -lpthread -lcurl -lssl -lcrypto -lm 
