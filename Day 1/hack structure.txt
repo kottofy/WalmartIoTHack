@@ -1,0 +1,12 @@
+- Set up an IoT Hub in Azure Subscription
+- Copy hub connection string from it
+- Create console app to simulate device sending messages to cloud
+- Test message getting from device to cloud
+- Amend console app to recevie message from cloud
+- Test messages getting from cloud to device
+- Route messages to storage
+- (Advanced) hook stream analytics to incoming messages
+- Work with IoT Edge v2 
+    - follow docs
+    - get your own running
+    
